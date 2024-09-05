@@ -84,7 +84,7 @@ class Tarea_Python:
 
             else:
                 plt.plot(s[serie])
-
+   
         plt.title(f"Grafico serie {numero_serie}")
 
         plt.savefig(
